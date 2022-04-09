@@ -13,6 +13,12 @@
 - Github: [@dimitrileduc](https://github.com/dimitrileduc)
 - LinkedIn: [@dimitrileduc](https://linkedin.com/in/dimitrileduc)
 
+## Ressources
+
+React-palette : https://www.npmjs.com/package/react-palette
+
+images : https://unsplash.com/
+
 ## Tech Stack
 
 **Client:** React, react-palette, pure css
