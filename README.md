@@ -20,7 +20,7 @@
 ## To Do ( V2 coming soon ... )
 
 - Upload image by user
-- Display image hex colour
+- Display image colours in hex. format
 
 ## 🤝 Contributing
 
